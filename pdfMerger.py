@@ -3,6 +3,7 @@ import sys
 #os module is used to work with directorys(folders), e.g; fetching its contents
 import os
 
+
 #creates a merger object
 merger = PyPDF2.PdfFileMerger()
 
